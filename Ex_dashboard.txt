@@ -1,0 +1,117 @@
+{
+0,
+'\0',
+47, 0, 0, 0,
+244, 1,
+};
+
+{
+0:0:1, // Dashboard ID TabGroupID TabElementID
+7, // Element ID
+DB_TYPE_LABEL, // Element Type
+0, // Z-Index (GUI stack order)
+105, 1, // X-coordinate
+62, 0, // Y-coordinate
+100, 0, // Width
+18, 0, // Height
+12, // Font Size
+0,
+0, // Horizontal Alignment
+0, // Vertical Alignment
+0, 255, 255, 255, // Background Color
+255, 0, 0, 0, // Foreground Color
+'R', 'e', 'v', 'e', 'r', 's', 'e', '\0', // Text
+};
+
+{
+0:0:1, // Dashboard ID TabGroupID TabElementID
+8, // Element ID
+DB_TYPE_LABEL, // Element Type
+0, // Z-Index (GUI stack order)
+186, 0, // X-coordinate
+62, 0, // Y-coordinate
+75, 0, // Width
+25, 0, // Height
+12, // Font Size
+0,
+0, // Horizontal Alignment
+0, // Vertical Alignment
+0, 255, 255, 255, // Background Color
+255, 0, 0, 0, // Foreground Color
+'O', 'n', '/', 'O', 'f', 'f', '\0', // Text
+};
+
+{
+0:0:1, // Dashboard ID TabGroupID TabElementID
+9, // Element ID
+DB_TYPE_LABEL, // Element Type
+0, // Z-Index (GUI stack order)
+119, 0, // X-coordinate
+143, 1, // Y-coordinate
+107, 0, // Width
+40, 0, // Height
+32, // Font Size
+1,
+0, // Horizontal Alignment
+0, // Vertical Alignment
+0, 255, 255, 255, // Background Color
+255, 0, 0, 0, // Foreground Color
+'R', 'P', 'M', '\0', // Text
+};
+
+{
+0:0:1, // Dashboard ID TabGroupID TabElementID
+11, // Element ID
+DB_TYPE_SEGMENT, // Element Type
+0, // Z-Index (GUI stack order)
+113, 0, // X-coordinate
+246, 0, // Y-coordinate
+96, 1, // Width
+145, 0, // Height
+4, // Segment Count
+10, // Numeric Base
+255, 253, 0, 0, // Segment Color
+};
+
+{
+0:0:1, // Dashboard ID TabGroupID TabElementID
+12, // Element ID
+DB_TYPE_SLIDER, // Element Type
+0, // Z-Index (GUI stack order)
+127, 0, // X-coordinate
+177, 0, // Y-coordinate
+71, 1, // Width
+100, 0, // Height
+10,0,0,0, // Minimum
+200,0,0,0, // Maximum
+10,0,0,0, // Value
+};
+
+{
+0:0:1, // Dashboard ID TabGroupID TabElementID
+13, // Element ID
+DB_TYPE_BUTTON, // Element Type
+0, // Z-Index (GUI stack order)
+46, 1, // X-coordinate
+90, 0, // Y-coordinate
+157, 0, // Width
+46, 0, // Height
+12, // Font Size
+'R', 'e', 'v', 'e', 'r', 's', 'e', '\0', // Text
+1,
+};
+
+{
+0:0:1, // Dashboard ID TabGroupID TabElementID
+14, // Element ID
+DB_TYPE_BUTTON, // Element Type
+0, // Z-Index (GUI stack order)
+127, 0, // X-coordinate
+90, 0, // Y-coordinate
+157, 0, // Width
+46, 0, // Height
+12, // Font Size
+'O', 'n', '\0', // Text
+1,
+};
+
